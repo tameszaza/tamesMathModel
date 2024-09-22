@@ -1,0 +1,9 @@
+setup.py
+MathModel/__init__.py
+MathModel/math.py
+MathModel/math3d.py
+MathModel.egg-info/PKG-INFO
+MathModel.egg-info/SOURCES.txt
+MathModel.egg-info/dependency_links.txt
+MathModel.egg-info/requires.txt
+MathModel.egg-info/top_level.txt
